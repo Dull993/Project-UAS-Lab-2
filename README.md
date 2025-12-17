@@ -1,4 +1,4 @@
-# Proyek-Lab-2
+# Project-Lab-2
 
 
 Nama Project   :Pengelola Inventaris
